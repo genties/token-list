@@ -47119,6 +47119,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "BgjhevUKQDZ28usZMEairXPctoFA3nqKM8A1j5YhHv7w",
+      "symbol": "ANGRY",
+      "name": "ANGRY",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/genties/token/main/angry_token_logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/angryroyale",
+        "website": "https://angrybattleroyale.com/"
+      }
     }
   ],
   "version": {
